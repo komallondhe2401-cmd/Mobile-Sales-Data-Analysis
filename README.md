@@ -133,8 +133,6 @@ By using interactive filters, users can analyze sales at different levels, such 
 
 ## 📷 Dashboard Preview
 
-Add your dashboard screenshot here:
-
 ![Motorola Mobile Sales Dashboard](Sales_Dashboard.png)
 
 ## 📂 Project Information
